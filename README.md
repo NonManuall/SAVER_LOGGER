@@ -20,6 +20,7 @@ Without dependable logs, credibility and accountability can be compromised.
 SAVER_LOGGER eliminates this risk by persistently recording and exporting logs — maintaining verifiable records of request activity, even if Burp is closed accidentally. It ensures traceability, reproducibility, and legal defensibility for your testing work.
 
 🚀 Key Features
+
 ✅ Precise Request Tracking
 Logs every HTTP request sent from all Burp tools, including passive and active scanners, manual tools, and automated scans.
 
